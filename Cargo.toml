@@ -14,7 +14,7 @@ include = ["src/**/*", "LICENSE", "README.md", "CHANGELOG.md"]
 
 [dependencies]
 futures = "0.3.31"
-ndarray = "0.16.1"
+ndarray = "0.17"
 pin-project = "1.1.10"
 thiserror = "^2"
 typed-builder = "0.20.1"
